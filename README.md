@@ -1,6 +1,6 @@
 # CODSOFT
 <h1 align="center">Hi 👋, I'm Naveed Ul Haq</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h3 align="center">A Software Engineer from Pakistan</h3>
 
 - 📫 How to reach me **naveedulhaq75@gmail.com**
 
